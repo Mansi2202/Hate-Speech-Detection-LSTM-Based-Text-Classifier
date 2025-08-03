@@ -26,14 +26,16 @@ Built with TensorFlow, Keras, and Streamlit for a clean UI to test your own inpu
 ## 📁 Project Structure
 
 project/
-├── Hate\_code.py           → Model training and saving
-├── app.py                 → Streamlit-based inference app
-├── tokenizer.pickle       → Saved tokenizer
-├── model.h5               → Saved LSTM model
-├── data\imbalanced\_data.csv    → Dataset with binary hate labels
-├── data\raw\_data.csv           → Dataset with multi-class offensive labels
-├── requirements.txt       → All required Python libraries
-└── README.md              → This file
+├── Hate_code.py              # Model training and saving
+├── app.py                    # Streamlit-based inference app
+├── tokenizer.pickle          # Saved tokenizer
+├── model.h5                  # Saved LSTM model
+├── data/
+│   ├── imbalanced_data.csv   # Dataset with binary hate labels
+│   └── raw_data.csv          # Dataset with multi-class offensive labels
+├── requirements.txt          # All required Python libraries
+└── README.md                 # Project documentation
+
 
 ## 🛠️ Installation
 
