@@ -1,8 +1,4 @@
-Sure! Here's the markdown (.md) code for the complete README.md file you provided:
 
-README.md (Markdown Code)
-
-````markdown
 # Hate Speech Detection using LSTM (Hate-Code)
 
 A deep learning-based system that detects hate or abusive speech in tweets using an LSTM (Long Short-Term Memory) network trained on a combination of imbalanced and raw Twitter datasets.
