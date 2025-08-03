@@ -1,6 +1,5 @@
 Here’s a complete README.md file for your Hate Speech Detection project, organized and beginner-friendly:
 
-📄 README.md
 
 # Hate Speech Detection using LSTM (Hate-Code)
 
